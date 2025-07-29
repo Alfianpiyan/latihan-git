@@ -11,7 +11,7 @@ export default function Section2() {
     return (
         <div className="pt-24 pr-5 bg-white">
             <div className="text-center mb-8">
-                <h2 className="font-bold text-xl  md:text-4xl">Produk Favorit Kami</h2>
+                <h2 className="font-bold text-xl  md:text-4xl">Produk Terbaik Kami</h2>
                 <h3>Temukan berbagai produk berkualitas dari <br/> berbagai kategori, dirancang untuk memenuhi <br/>kebutuhan dan gaya hidup Anda sehari-hari.</h3>
 
 
