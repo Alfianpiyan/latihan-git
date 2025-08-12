@@ -1,6 +1,6 @@
 import CheckoutPage from "../component/Chcekout/checkout"
 
-
+prikitiw
 
 
 const Checkout= () => {
